@@ -5,14 +5,14 @@ Download the latest binary from [Release Page](https://github.com/isacikgoz/tldr
 
 ### macOS (darwin)
 ```bash
-curl -OL https://github.com/isacikgoz/tldr/releases/download/v.0.2.1/tldr_0.2.1_darwin_amd64.tar.gz  
-tar -xzf tldr_0.2.1_darwin_amd64.tar.gz  
+curl -OL https://github.com/isacikgoz/tldr/releases/download/v0.5.0/tldr_0.5.0_darwin_amd64.tar.gz  
+tar -xzf tldr_0.5.0_darwin_amd64.tar.gz  
 ```
 
 ### Linux
 ```bash
-curl -OL https://github.com/isacikgoz/tldr/releases/download/v.0.2.1/tldr_0.2.1_linux_amd64.tar.gz
-tar xzf tldr_0.2.1_linux_amd64.tar.gz
+curl -OL https://github.com/isacikgoz/tldr/releases/download/v0.5.0/tldr_0.5.0_linux_amd64.tar.gz
+tar xzf tldr_0.5.0_linux_amd64.tar.gz
 ```
 
 ### After that please put executable to your `PATH`:
